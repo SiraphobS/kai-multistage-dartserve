@@ -1,13 +1,3 @@
-----------RUN ./build/dartserver-----------------
-Running 30s test @ thhp://127.0.0.1:8080
-  12 threads and 300 connections
-  Thread Stats   Avg      Stdev     Max   +/- Stdev
-    Latency    36.31ms   46.98ms   1.04s    98.64%
-    Req/Sec   781.46     98.13     1.01k    88.10%
-  275258 requests in 30.03s, 65.63MB read
-Requests/sec:   9166.75
-Transfer/sec:      2.19MB
-
 
 ----------RUN DOCKER------------------------------745MB
 Running 30s test @ http://localhost:8080
