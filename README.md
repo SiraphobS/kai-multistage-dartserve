@@ -7,6 +7,8 @@ Running 30s test @ thhp://127.0.0.1:8080
   275258 requests in 30.03s, 65.63MB read
 Requests/sec:   9166.75
 Transfer/sec:      2.19MB
+
+
 ----------RUN DOCKER------------------------------745MB
 Running 30s test @ http://localhost:8080
   12 threads and 400 connections
@@ -16,6 +18,7 @@ Running 30s test @ http://localhost:8080
   359935 requests in 30.05s, 85.82MB read
 Requests/sec:  11976.43
 Transfer/sec:      2.86MB
+
 
 ----------RUN DOCKER MULTISTAGE----------------- 75.5MB
 Running 30s test @ http://localhost:8080
